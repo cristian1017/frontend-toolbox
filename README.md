@@ -22,10 +22,13 @@ Este proyecto es una aplicación cliente desarrollada con React, que interactúa
 Para instalar el proyecto y sus dependencias, sigue estos pasos:
 1. Clona el repositorio:
 ```
-git clone [URL_DEL_REPOSITORIO] frontend
+git clone https://github.com/cristian1017/frontend-toolbox.git frontend
+```
+2. Ingresa a la carpeta 
+```
 cd frontend
 ```
-2. Instala las dependencias del proyecto:
+3. Instala las dependencias del proyecto:
 ```
 npm install
 ```
