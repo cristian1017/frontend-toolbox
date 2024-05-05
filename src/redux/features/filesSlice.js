@@ -82,7 +82,7 @@ export const filesSlice = createSlice({
     builder.addCase(
       getDataFilesByFileName.fulfilled,
       (state, { payload }) => {
-        state.data = [payload];
+        state.data = payload;
         state.isLoading = false;
       }
     );
